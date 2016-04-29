@@ -144,7 +144,7 @@ int main()
 	}
 
 	std::cout << "Complete" << std::endl;
-	std::system("mspaint output.png");
+	//std::system("mspaint output.png");
 
 	return 0;
 }
