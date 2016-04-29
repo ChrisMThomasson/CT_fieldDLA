@@ -79,7 +79,7 @@ namespace ct
 
 				float mass = std::pow(disraw, npow);
 
-				float d = glm::length(dif) / mass;
+				//float d = glm::length(dif) / mass;
 
 				if (mass > ESP && ! isnan(mass) && isfinite(mass))
 				{
